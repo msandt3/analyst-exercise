@@ -2,10 +2,6 @@
 
 Welcome to the Analyst offline exercise. This is a chance for you to show us your grasp of crucial skills which play a key role in the day-to-day of a Analyst at Relay Payments. If you feel that there are any questions that are unclear, please let us know.
 
-The exercise consists of three parts.
-
-1. A SQL Challenge
-
 ## Overall Instructions
 
 * Please follow the instruction listed before each portion of the exercise
