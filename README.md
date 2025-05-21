@@ -30,7 +30,7 @@ A few things to note before you get started:
 
 * Create a SQL database using the included [CSV files](/sql_challenge/data)
 * Use the database created to answer all the questions.
-* Provide all code you used to answer questions, set up the db, and import data in the [SQL Directory](/sql_challenge/sql)
+* Provide all code you used to answer questions, set up the db, and import data in the [SQL Directory](/sql_challenge/sql). Include any notes needed to run the exercise. 
 * Leave comments where you feel clarity is needed.
 
 ### Questions
