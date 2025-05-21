@@ -1,16 +1,13 @@
 # Relay Payments Analyst Exercise
 
-Welcome to the SalesLoft Analyst offline exercise. This is a chance for you to show us your grasp of crucial skills which play a key role in the day-to-day of a Analyst at SalesLoft. If you feel that there are any questions that are unclear, please let us know.
+Welcome to the Analyst offline exercise. This is a chance for you to show us your grasp of crucial skills which play a key role in the day-to-day of a Analyst at Relay Payments. If you feel that there are any questions that are unclear, please let us know.
 
 The exercise consists of three parts.
 
 1. A SQL Challenge
-2. A Visualization Component
-3. A Bonus Exploratory Problem
 
 ## Overall Instructions
 
-* This exercise is due back within 5 calendar days of receipt.
 * Please follow the instruction listed before each portion of the exercise
 * If you are confused by a specific question, you can request clarification by replying to the message that this exercise was attached to. Keep in mind we will not provide hints or any technical help with solving the problems in this exercise.
 * If you cannot answer a question, please do your best, show your work, leave comments, and let us know your general thoughts.
